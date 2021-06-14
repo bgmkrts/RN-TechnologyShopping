@@ -4,7 +4,8 @@
       "title": "Xiaomi Mi True Wireless Earbuds",
       "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
       "price": "₺134,77",
-      "author": "Darwin",
+      "property":"64 GB Beyaz",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin metus lorem, tincidunt sed ex sit amet, faucibus rhoncus odio. Integer in magna ante. Sed volutpat metus risus, eget tristique libero bibendum id. Integer imperdiet orci ac lectus accumsan tempor. Praesent in arcu quis turpis commodo lobortis eu in dolor. Fusce vitae ultrices diam. Nulla venenatis maximus consectetur. Vestibulum condimentum malesuada elit, sed finibus tortor commodo sit amet. Maecenas lectus velit, suscipit at aliquet vitae, bibendum quis quam. Nulla tincidunt mauris est, eget commodo nisi aliquet ut. Nam hendrerit ex non mattis tincidunt. Suspendisse potenti.",
       "c_id":2
     },
     {
@@ -12,7 +13,8 @@
       "title": "General Mobile GM 20",
       "imgURL":"https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
       "price": "₺1.810,21",
-      "author": "Mr. Clanni",
+      "property":"128 GB Mavi",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":1
     },
     {
@@ -20,7 +22,8 @@
       "title": "Philips 58PUS8505/62 The One",
       "imgURL":"https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
       "price": "₺6.992,25",
-      "author": "Slane",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":1
     },
     {
@@ -28,7 +31,8 @@
       "title": "LG 49UM7100PLB Ultra HD 4K",
       "imgURL":"https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
       "price": "₺4.614,38",
-      "author": "Grappa",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":4
     },
     {
@@ -36,7 +40,8 @@
       "title": "Samsung Galaxy M31 SM-M315F",
       "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg",
       "price": "₺2.995,80",
-      "author": "Pardussi",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":1
     },
     {
@@ -44,7 +49,8 @@
       "title": "Apple AirPods Series 2",
       "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmpXzLsA4cnI90HqiX_SooYcDPAKY8YUJbQ&usqp=CAU",
       "price": "₺1.299,00",
-      "author": "William",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":2
     },
     {
@@ -52,7 +58,8 @@
       "title": "Lenovo Tab M10 Plus",
       "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
       "price": "₺2.496,50",
-      "author": "Shecspare",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":3
     },
     {
@@ -60,7 +67,8 @@
       "title": "Xiaomi Redmi 20000 Mah",
       "imgURL":"https://cdn.dsmcdn.com/mnresize/415/622/ty8/product/media/images/20200727/21/6085849/78867811/0/0_org_zoom.jpg",
       "price": "₺134,70",
-      "author": "Bluen",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":5
     },
     {
@@ -68,7 +76,8 @@
       "title": "Xiaomi Mijia Smart Home 360",
       "imgURL":"https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
       "price": "₺269,73",
-      "author": "Kimns",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":1
     },
     {
@@ -76,7 +85,8 @@
       "title": "Xiaomi Mi Box S 4K Ultra HD",
       "imgURL":"https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
       "price": "₺478,53",
-      "author": "Lawin",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":4
     },
     {
@@ -84,7 +94,8 @@
       "title": "Haylou Solar LS-5 Smartwatch",
       "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
       "price": "₺296,00",
-      "author": "Proto",
+      "property":"64 GB Siyah",
+      "description": "Sed dapibus libero et sapien commodo, ut egestas mauris sollicitudin. Mauris eu dignissim libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut a turpis auctor, scelerisque odio sed, porta leo. Sed vel feugiat turpis, ac euismod tellus. Pellentesque lectus ante, egestas eget ante a, imperdiet maximus tellus. Donec ut euismod turpis. Vestibulum luctus lobortis est et dictum. Sed vel est eget leo sagittis maximus.",
       "c_id":4
     }
 ]

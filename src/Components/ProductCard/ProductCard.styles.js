@@ -34,7 +34,7 @@ export default StyleSheet.create({
   inner_container: {
     padding: 7
   },
-  author: {
+  description: {
     fontStyle: "italic",
     textAlign: "right"
   }
